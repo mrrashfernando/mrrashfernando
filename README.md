@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shwetha Rashmika</h1>
+<h1 align="center">Hi 👋, I'm Rashmika Fernando</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrashfernando&label=Profile%20views&color=0e75b6&style=flat" alt="mrrashfernando" /> </p>
